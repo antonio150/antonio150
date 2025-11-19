@@ -1,85 +1,74 @@
-👋 Bonjour, moi c’est Antonio Rollande ANDRIANAVALONA
-🚀 Développeur Web Fullstack — Spécialisation Symfony
+# 👋 Bonjour, moi c’est **Antonio Rollande ANDRIANAVALONA**
 
-Passionné par le développement web, j’aime concevoir des applications performantes, fiables et scalables, avec un accent particulier sur la qualité du code, la sécurité et la performance.
-Je travaille principalement avec Symfony, PHP 8, API Platform, MySQL, ainsi que Nuxt 3 pour les interfaces modernes.
+### 🚀 Développeur Web Fullstack — Spécialisation Symfony  
+Passionné par le développement web, je conçois des applications **performantes**, **fiables** et **scalables**.  
+J’aime travailler sur Symfony, PHP, API Platform ainsi que Nuxt 3 pour créer des solutions modernes et fluides.
 
-🎥 J'anime aussi une chaîne YouTube : Code with Navira, où je partage mes recherches, astuces et tutoriels Symfony.
+🎥 Je partage aussi mes recherches Symfony sur ma chaîne YouTube : **Code with Navira**.
 
-🛠️ Technologies & Outils
-Backend
+---
 
-Symfony (5, 6, 7)
+## 🧰 **Tech Stack**
 
-PHP 8.x
+### 🔹 Backend  
+- Symfony (5, 6, 7)  
+- PHP 8.x  
+- API REST / API Platform  
+- MySQL / SQL Server  
 
-API REST — API Platform
+### 🔹 Frontend  
+- Nuxt.js  
+- JavaScript ES6  
+- PrimeVue  
+- HTML5 / CSS3  
+- jQuery  
 
-MySQL / SQL Server
+### 🔹 Outils & DevOps  
+- Docker  
+- Git / GitLab  
+- TailwindCSS  
+- EasyAdmin  
 
-Frontend
+---
 
-Nuxt.js
+## 💼 **Expérience récente**
 
-JavaScript (ES6)
+### **Développeur PHP / Symfony — DEVSOFT PRO (2025 – présent)**  
+- Développement d’applications web (gestion, transport, planification)  
+- Création d’API Symfony & intégration Nuxt.js  
+- Optimisation et maintenance d'applications existantes  
+- Collaboration via GitLab & Docker  
 
-PrimeVue
+---
 
-HTML5 / CSS3
+## 🎓 **Formation**
+- 🎓 Master Professionnel en Informatique — Université de Fianarantsoa  
+- 🎓 Licence Professionnelle en Informatique — Université de Fianarantsoa  
 
-jQuery
+---
 
-Outils & DevOps
+## 📺 **Chaîne YouTube — Code with Navira**  
+Je publie des vidéos sur :  
+- Symfony 7  
+- Bonnes pratiques PHP  
+- API Platform  
+- Projets & tutoriels pratiques  
 
-Docker
+🔗 https://www.youtube.com/@antoniorollandeyves6852  
 
-Git / GitLab
+---
 
-TailwindCSS
+## 🌐 **Portfolio**
+🔗 https://portfolio-navira.vercel.app  
 
-EasyAdmin
+---
 
-💼 Expérience récente
-Développeur PHP / Symfony — DEVSOFT PRO (2025 – présent)
+## 📫 **Contact**
+- **Email :** antonio@devsoft-pro.com  
+- **Téléphone :** +261 33 92 333 21  
+- **GitLab :** antoniorollande  
 
-Applications professionnelles (transport, planification, gestion)
+---
 
-Développement backend Symfony et API
-
-Frontend dynamique Nuxt.js & PrimeVue
-
-Optimisation et maintenance d'applications existantes
-
-Collaboration en équipe via GitLab & Docker
-
-📚 Formation
-
-🎓 Master Professionnel en Informatique — Université de Fianarantsoa
-
-🎓 Licence Professionnelle en Informatique — Université de Fianarantsoa
-
-📺 Chaîne YouTube : Code with Navira
-
-Je publie des vidéos sur :
-
-Symfony 7
-
-Astuces et bonnes pratiques PHP
-
-Tutos API Platform
-
-Projets pédagogiques et démos
-
-🔗 https://www.youtube.com/@antoniorollandeyves6852
-
-🌐 Portfolio
-
-🔗 https://portfolio-navira.vercel.app
-
-📫 Me contacter
-
-Email : antonio@devsoft-pro.com
-
-Téléphone : +261 33 92 333 21
-
-GitLab : antoniorollande
+## 🔥 **Objectif**
+Créer, apprendre et partager chaque jour — tout en construisant des applications robustes et utiles.
