@@ -64,7 +64,7 @@ Je publie des vidéos sur :
 ---
 
 ## 📫 **Contact**
-- **Email :** antonio@devsoft-pro.com  
+- **Email :** antoniorollande@gmail.com  
 - **Téléphone :** +261 33 92 333 21  
 - **GitLab :** antoniorollande  
 
